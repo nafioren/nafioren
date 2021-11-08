@@ -7,5 +7,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafioren&layout=compact)](https://github.com/nafioren/github-readme-stats)
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+
+![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
