@@ -97,8 +97,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:334155&height=100&section=footer" alt="" />
 </p>
-
-<!-- Ola de cierre -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=100&section=footer" alt="" />
-</p>
