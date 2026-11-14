@@ -20,7 +20,7 @@
 
 - ☕ Trabajo como desarrolladora **Java** con **Spring Boot**, **JBoss** y **MySQL**
 - 🚀 Participé en la migración de un sistema de **Java 7/8 a Java 21**
-- 🔐 Me estoy formando en **ciberseguridad** con los cursos de **Ekoparty**
+- 🔐 Me estoy formando en **ciberseguridad** 
 - 🔌 Hago proyectos con **Arduino** para conectar el software con el mundo físico
 - 🌱 Ahora mismo estoy aprendiendo: **Jakarta EE moderno, Docker y seguridad en aplicaciones web**
 - 📍 Buenos Aires, Argentina 🇦🇷
