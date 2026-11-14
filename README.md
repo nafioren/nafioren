@@ -20,7 +20,7 @@
 
 - ☕ Trabajo como desarrolladora **Java** con **Spring Boot**, **JBoss** y **MySQL**
 - 🚀 Participé en la migración de un sistema de **Java 7/8 a Java 21**
-- 🔐 Me estoy formando en **ciberseguridad** con los cursos de **Ekoparty**
+- 🔐 Me estoy formando en **ciberseguridad** 
 - 🔌 Hago proyectos con **Arduino** para conectar el software con el mundo físico
 - 🌱 Ahora mismo estoy aprendiendo: **Jakarta EE moderno, Docker y seguridad en aplicaciones web**
 - 📍 Buenos Aires, Argentina 🇦🇷
@@ -58,12 +58,6 @@
 
 ## 📌 Proyecto destacado
 
-<p align="center">
-  <a href="https://github.com/nafioren/api-tareas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafioren&repo=api-tareas&theme=github_dark&hide_border=true" alt="api-tareas" />
-  </a>
-</p>
-
 | | Proyecto | Qué hace | Stack |
 |:-:|---|---|---|
 | ✅ | [**api-tareas**](https://github.com/nafioren/api-tareas) | API REST con Java moderno, tests, CI y una [guía de migración de Java 8 a 21](https://github.com/nafioren/api-tareas/blob/main/MIGRACION.md) | Java 21 · Jakarta EE · WildFly · MySQL · Docker |
@@ -71,12 +65,7 @@
 
 ---
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nafioren&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafioren&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más usados" />
-</p>
+## 📊 Racha de contribuciones
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nafioren&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&stroke=30363D&hide_border=true&locale=es" alt="Racha de contribuciones" />
